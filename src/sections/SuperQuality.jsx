@@ -1,8 +1,5 @@
-
 const SuperQuality = () => {
-  return (
-    <div>SuperQuality</div>
-  )
-}
+  return <div>SuperQuality</div>;
+};
 
-export default SuperQuality
+export default SuperQuality;
